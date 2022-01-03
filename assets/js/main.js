@@ -1,5 +1,5 @@
 /*-----------------------------------------------------------------------------------
-    Template Name: Funden - Crowdfunding & Charity HTML Template
+    Template Name: Bracarli Humana - Semilla de Amor
     Template URI: https://webtend.net/demp/html/funden
     Author: WebTend
     Author URI:  https://webtend.net/
